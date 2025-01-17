@@ -10,4 +10,6 @@ ETL using SSIS on Vehicles dataset. this helped me go deeper into ETL and know m
 
 4-Load data into DWH.
 
+Data Source: https://www.kaggle.com/datasets/austinreese/craigslist-carstrucks-data
+
 ![Data Flow task](https://github.com/user-attachments/assets/d6a009f5-0ecd-44ed-a7db-3cf0e154342a)
